@@ -86,5 +86,37 @@
         "achievement": "She was the first woman in the world who got her name in Distinguished Fellow of the British Computer Society, Honorary Doctor of Science from Marquette University, and National Medal of Technology (1991)",
         "salary": 46900,
         "img": "https://i0.wp.com/www.rankred.com/wp-content/uploads/2019/07/Grace-Hopper.jpg?w=700&ssl=1"
+    },
+    {
+        "key": "B0012R",
+        "name": "John Backus",
+        "age": 82,
+        "achievement": "Backus received the W.W. McDowell Award, National Medal of Science, ACM Turing Award, Draper Prize, and named an IBM Fellow",
+        "salary": 17500,
+        "img": "https://i2.wp.com/www.rankred.com/wp-content/uploads/2019/07/John-Backus.jpg?w=700&ssl=1"
+    },
+    {
+        "key": "B0013R",
+        "name": "Bill Gates",
+        "age": 65,
+        "achievement": "He was honored with the National Medal of Technology and Innovation, Distinguished Fellow of the British Computer Society, and Bower Award for Business Leadership",
+        "salary": 27500,
+        "img": "https://i0.wp.com/www.rankred.com/wp-content/uploads/2019/07/Bill-Gates.jpg?w=700&ssl=1"
+    },
+    {
+        "key": "B0014R",
+        "name": "Brian Kernighan",
+        "age": 79,
+        "achievement": "He won INFORMS Computing Society Prize in 1993 and received many Teacher Awards throughout his career",
+        "salary": 15000,
+        "img": "https://i2.wp.com/www.rankred.com/wp-content/uploads/2019/07/Brian-Kernighan.jpg?w=700&ssl=1"
+    },
+    {
+        "key": "B0015R",
+        "name": "Ken Thompson",
+        "age": 78,
+        "achievement": "He was honored with the Turing Award, Japan Prize, IEEE Emanuel R. Piore Award, Computer Pioneer Award, and National Medal of Technology",
+        "salary": 27000,
+        "img": "https://i1.wp.com/www.rankred.com/wp-content/uploads/2019/07/Ken-Thompson.jpg?w=600&ssl=1"
     }
 ]
