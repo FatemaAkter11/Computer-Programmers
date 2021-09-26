@@ -11,15 +11,18 @@ const Cart = (props) => {
     return (
         <div>
             <h2 className="text-success"><i className="fas fa-user"></i> Programmers Added:{cart.length} </h2>
-            <h1>Total Cost:$ {totalSalary}</h1>
+            <h1>Total Salary Cost:$ {totalSalary}</h1>
             <div className="card w-50 mx-auto border border-info bg-body shadow">
                 <ul>
                     {
+
                         cart.map(program => <li>{program.name}</li>)
+
                     }
                 </ul>
-            </div>
 
+
+            </div>
         </div>
     );
 };

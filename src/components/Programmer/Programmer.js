@@ -2,7 +2,6 @@ import React, { useEffect, useState } from 'react';
 import Cart from '../Cart/Cart';
 import Program from '../Program/Program';
 import './Programmer.css';
-import image from '../../images/bg-img.jpg';
 
 
 const Programmer = () => {
@@ -18,12 +17,12 @@ const Programmer = () => {
 
     const handleAddProgram = (program) => {
 
-        const newCart = [...cart, program]
-        setCart(newCart)
+        const newCart = [...cart, program];
+        setCart(newCart);
     }
 
     return (
-        <div className="programmer" style={{ backgroundImage: `url(${image}` }}>
+        <div className="programmer-container" >
             <div className="row">
                 <div className="col-md-8">
                     {/* program data load */}
