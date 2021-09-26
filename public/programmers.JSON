@@ -31,7 +31,7 @@
         "name": "Guido van Rossum",
         "age": 65,
         "country": "Netherlands",
-        "achievement": "Rossum received an NLUUG Award, the 2001 Award for the Advancement of Free Software for his work on Python",
+        "achievement": "Rossum received an NLUUG Award, the 2001 Award for the Advancement of Free Software for his work on Python.",
         "salary": 23000,
         "img": "https://i2.wp.com/www.rankred.com/wp-content/uploads/2019/07/Guido-van-Rossum.jpg?w=700&ssl=1"
     },
@@ -40,7 +40,7 @@
         "name": "James Arthur Gosling",
         "age": 66,
         "country": "Canada",
-        "achievement": "Gosling was awarded The Economist Innovation Award,  IEEE John von Neumann Medal, and he was made an Officer of the Order of Canada in 2007",
+        "achievement": "Gosling was awarded The Economist Innovation Award,  IEEE John von Neumann Medal, and he was made an Officer of the Order of Canada in 2007.",
         "salary": 15000,
         "img": "https://i2.wp.com/www.rankred.com/wp-content/uploads/2019/07/James-Arthur-Gosling.jpg?w=700&ssl=1"
     },
@@ -49,7 +49,7 @@
         "name": "Niklaus Wirth",
         "age": 87,
         "country": "Switzerland",
-        "achievement": " He was honored with Turing Award, SIGPLAN Programming Languages Achievement Award, and Marcel Benoist Prize",
+        "achievement": " He was honored with Turing Award, SIGPLAN Programming Languages Achievement Award, and Marcel Benoist Prize.",
         "salary": 39000,
         "img": "https://i1.wp.com/www.rankred.com/wp-content/uploads/2019/07/Niklaus-Wirth.jpg?w=700&ssl=1"
     },
@@ -85,7 +85,7 @@
         "name": "John George Kemeny",
         "age": 66,
         "country": "America",
-        "achievement": "He received the Computer Pioneer Award in 1985.He is a honourable person",
+        "achievement": "He received the Computer Pioneer Award in 1985.He is a honourable person.",
         "salary": 55000,
         "img": "https://i2.wp.com/www.rankred.com/wp-content/uploads/2019/07/John-George-Kemeny.jpg?w=700&ssl=1"
     },
