@@ -2,6 +2,8 @@ import React, { useEffect, useState } from 'react';
 import Cart from '../Cart/Cart';
 import Program from '../Program/Program';
 import './Programmer.css';
+import image from '../../images/bg-img.jpg';
+
 
 const Programmer = () => {
     const [programmers, setProgrammers] = useState([]);
@@ -21,7 +23,7 @@ const Programmer = () => {
     }
 
     return (
-        <div>
+        <div className="programmer" style={{ backgroundImage: `url(${image}` }}>
             <div className="row">
                 <div className="col-md-8">
                     {/* program data load */}
