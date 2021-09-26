@@ -7,16 +7,16 @@ const Program = (props) => {
     const { img, name, age, country, salary, achievement } = props.program || {};
     return (
         <div className="col-md-4 mb-4 ">
-            <div className="card shadow-lg p-2 rounded" style={{ width: '18rem', height: 'h-100 d-inline-block' }}>
+            <div className="card shadow-lg p-2 rounded  border border-primary" style={{ width: '18rem', height: 'h-100 d-inline-block' }}>
                 <img src={img} className="mx-auto program-img" alt="..." />
-                <div className="card-body">
-                    <h5 className="card-title">Name: {name}</h5>
-                    <h6>Age: {age}</h6>
-                    <h6>Country: {country}</h6>
-                    <p className="card-text">Salary: {salary}</p>
-                    <p className="card-text"><small>Achievement:  {achievement}</small></p>
+                <div className="mt-2">
+                    <h5 className="card-title"><span className="fw-bold">Name:</span> {name}</h5>
+                    <p><span className="fw-bold">Age: </span>{age}</p>
+                    <p><span className="fw-bold">Country:</span> {country}</p>
+                    <p className="card-text"><span className="fw-bold">Salary:</span> ${salary}</p>
+                    <p className="card-text"><small><span className="fw-bold">Achievement:</span>  {achievement}</small></p>
                     <a href="#"
-                        className="btn w-75 regular-btn fw-bold"><i class="fas fa-cart-plus"></i> Add to Cart</a>
+                        className="btn w-75 mb-2 regular-btn fw-bold"><i class="fas fa-cart-plus"></i> Add to Cart</a>
                 </div>
             </div>
         </div>

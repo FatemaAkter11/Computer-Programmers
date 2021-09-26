@@ -58,7 +58,7 @@
         "name": "Alan Curtis Kay",
         "age": 81,
         "country": "America",
-        "achievement": "Alan received ACM Turing Award for his work on object-oriented programming, UPE Abacus Award, and UdK 01-Award  for pioneering the GUI",
+        "achievement": "Alan received ACM Turing Award for his work on object-oriented programming, UPE Abacus Award.",
         "salary": 73000,
         "img": "https://i2.wp.com/www.rankred.com/wp-content/uploads/2019/07/Alan-Curtis-Kay.jpg?w=700&ssl=1"
     },
@@ -85,7 +85,7 @@
         "name": "John George Kemeny",
         "age": 66,
         "country": "America",
-        "achievement": "He received the Computer Pioneer Award in 1985.",
+        "achievement": "He received the Computer Pioneer Award in 1985.He is a honourable person",
         "salary": 55000,
         "img": "https://i2.wp.com/www.rankred.com/wp-content/uploads/2019/07/John-George-Kemeny.jpg?w=700&ssl=1"
     },
@@ -94,7 +94,7 @@
         "name": "Grace Hopper",
         "age": 85,
         "country": "America",
-        "achievement": "She was the first woman in the world who got her name in Distinguished Fellow of the British Computer Society.",
+        "achievement": "She was the first woman in the world who got her name in Distinguished Fellow of the British.",
         "salary": 46900,
         "img": "https://i0.wp.com/www.rankred.com/wp-content/uploads/2019/07/Grace-Hopper.jpg?w=700&ssl=1"
     },
@@ -112,7 +112,7 @@
         "name": "Bill Gates",
         "age": 65,
         "country": "America",
-        "achievement": "He was honored with the National Medal of Technology and Innovation, Distinguished Fellow of the British Computer Society.",
+        "achievement": "He was honored with the National Medal of Technology and Innovation, Distinguished Fellow of the British.",
         "salary": 27500,
         "img": "https://i0.wp.com/www.rankred.com/wp-content/uploads/2019/07/Bill-Gates.jpg?w=700&ssl=1"
     },
@@ -130,7 +130,7 @@
         "name": "Ken Thompson",
         "age": 78,
         "country": "America",
-        "achievement": "He was honored with the Turing Award, Japan Prize, IEEE Emanuel R. Piore Award, Computer Pioneer Award.",
+        "achievement": "He was honored with the Turing Award, Japan Prize, IEEE Emanuel R. Piore Award, Computer Pioneer get Awards.",
         "salary": 27000,
         "img": "https://i1.wp.com/www.rankred.com/wp-content/uploads/2019/07/Ken-Thompson.jpg?w=600&ssl=1"
     },
