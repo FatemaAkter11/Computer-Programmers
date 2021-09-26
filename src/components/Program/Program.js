@@ -15,9 +15,11 @@ const Program = (props) => {
                     <p><span className="fw-bold">Country:</span> {country}</p>
                     <p className="card-text"><span className="fw-bold">Salary:</span> ${salary}</p>
                     <p className="card-text"><small><span className="fw-bold">Achievement:</span>  {achievement}</small></p>
-                    <a href="#"
-                        onClick={() => props.handleAddProgram(props.program)}
-                        className="btn w-75 mb-2 regular-btn fw-bold"><i class="fas fa-cart-plus"></i> Add to Cart</a>
+                    <div className="text-center">
+                        <button className="btn w-75 mb-2 regular-btn fw-bold"
+                            onClick={() => props.handleAddProgram(props.program)}
+                        ><i class="fas fa-cart-plus"></i> Add to Cart</button>
+                    </div>
                 </div>
             </div>
         </div>

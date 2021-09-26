@@ -27,7 +27,7 @@ const Header = () => {
                     </div>
                 </div>
             </nav>
-            <div className="header-bg shadow-lg p-3 mb-5 rounded">
+            <div className="header-bg shadow-lg p-3 mb-5 rounded text-center">
                 <h1 className="text-success">Make An Greatest Computer Programmers Team</h1>
                 <p className="text-success fw-bold">Programmers are considered new rock stars. Below, we have mentioned some world-class coders <br />  who have changed the world with their creative minds and influenced people to become a better programmer.</p>
                 <h1 className="text-success">Total Budget: <span className="fw-bold">500 Million</span></h1>

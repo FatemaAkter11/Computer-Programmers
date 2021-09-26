@@ -4,7 +4,7 @@ import Programmer from './components/Programmer/Programmer';
 
 function App() {
   return (
-    <div className="App">
+    <div className="app-container">
       <Header></Header>
       <Programmer></Programmer>
     </div>

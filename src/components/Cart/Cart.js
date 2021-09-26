@@ -9,10 +9,10 @@ const Cart = (props) => {
     const totalSalary = total;
 
     return (
-        <div>
+        <div className="card w-75 mx-auto border border-info bg-body shadow mb-4 p-4 cart-container">
             <h2 className="text-success"><i className="fas fa-user"></i> Programmers Added:{cart.length} </h2>
             <h1>Total Salary Cost:$ {totalSalary}</h1>
-            <div className="card w-50 mx-auto border border-info bg-body shadow">
+            <div className="card w-50 mx-auto border border-info bg-body shadow mt-2">
                 <ul>
                     {
 
@@ -20,8 +20,6 @@ const Cart = (props) => {
 
                     }
                 </ul>
-
-
             </div>
         </div>
     );
