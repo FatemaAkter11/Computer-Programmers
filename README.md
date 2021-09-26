@@ -1,9 +1,9 @@
-### Greatest Computer Programmers Event
+## Greatest Computer Programmers Event
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-## In the project directory, you can know:
+# In the project directory, you can know:
 <ul>
 <li>This is a Computer Programmers Event website.</li>
 <li>This is a reunion of computer programmers from where we can know about them.</li>
