@@ -1,6 +1,6 @@
 # Greatest Computer Programmers Event
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create Computer Programmers](https://computer-programmers-event.netlify.app/).
 
 
  In the project directory, you can know:

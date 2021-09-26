@@ -18,7 +18,7 @@ const Program = (props) => {
                     <div className="text-center">
                         <button className="btn w-75 mb-2 regular-btn fw-bold"
                             onClick={() => props.handleAddProgram(props.program)}
-                        ><i class="fas fa-cart-plus"></i> Add to Cart</button>
+                        ><i className="fas fa-cart-plus"></i> Add to Cart</button>
                     </div>
                 </div>
             </div>
