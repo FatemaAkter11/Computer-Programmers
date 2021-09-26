@@ -1,20 +1,28 @@
 import React, { useEffect, useState } from 'react';
+import Program from '../Program/Program';
 import './Programmer.css';
 
 const Programmer = () => {
-    const [programmer, setProgrammer] = useState([]);
+    const [programmers, setProgrammers] = useState([]);
 
     useEffect(() => {
-        fetch("./programmers.JSON")
+        fetch('./programmers.JSON')
             .then(res => res.json())
-            .then(data => console.log(data));
+            .then(data => setProgrammers(data));
     }, [])
 
     return (
         <div>
             <div className="row">
                 <div className="col-md-9">
-                    <h1>This is a Programmer</h1>
+                    <div className="row mx-auto">
+                        {
+                            programmers.map(program => <Program
+                                key={program.key}
+                                program={program}
+                            ></Program>)
+                        }
+                    </div>
                 </div>
                 <div className="col-md-3">
                     <h2>This is total part</h2>

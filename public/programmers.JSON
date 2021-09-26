@@ -4,7 +4,7 @@
         "name": "David Patterson",
         "age": 73,
         "country": "America",
-        "achievement": "Eckert–Mauchly Award, Karl Karlstrom, Outstanding Educator, and ACM Distinguished Service Award",
+        "achievement": "Eckert–Mauchly Award, Karl Karlstrom, Outstanding Educator, and ACM Distinguished Service Award.",
         "salary": 39375,
         "img": "https://i0.wp.com/www.rankred.com/wp-content/uploads/2019/07/David-Patterson.jpg?w=700&ssl=1"
     },
@@ -13,16 +13,16 @@
         "name": "John Carmack",
         "age": 51,
         "country": "America",
-        "achievement": "The National Academy of Television Arts & Sciences (twice), the Technology & Engineering Emmy Awards, and Game Developers Conference Lifetime Achievement award for his pioneering work",
+        "achievement": "The National Academy of Television Arts & Sciences (twice), the Technology & Engineering Emmy Awards.",
         "salary": 13000,
-        "img": "https://i0.wp.com/www.rankred.com/wp-content/uploads/2019/07/David-Patterson.jpg?w=700&ssl=1"
+        "img": "https://i2.wp.com/www.rankred.com/wp-content/uploads/2019/07/John-Carmack.jpg?w=700&ssl=1"
     },
     {
         "key": "B003R",
         "name": "Donald Ervin Knuth",
         "age": 83,
         "country": "America",
-        "achievement": "Turing Award, Grace Murray Hopper Award, National Medal of Science, Faraday Medal, Kyoto Prize, and John von Neumann Medal",
+        "achievement": "Turing Award, Grace Murray Hopper Award, National Medal of Science, Faraday Medal, Kyoto Prize.",
         "salary": 33000,
         "img": "https://i0.wp.com/www.rankred.com/wp-content/uploads/2019/07/Donald-Ervin-Knuth.png?w=700&ssl=1"
     },
@@ -67,7 +67,7 @@
         "name": "John McCarthy",
         "age": 84,
         "country": "America",
-        "achievement": "He was honored with the Turing Award, Kyoto Prize, National Medal of Science, Computer Pioneer Award, and IJCAI Award for Research Excellence",
+        "achievement": "He was honored with the Turing Award, Kyoto Prize, National Medal of Science, Computer Pioneer Award.",
         "salary": 43000,
         "img": "https://i2.wp.com/www.rankred.com/wp-content/uploads/2019/07/John-McCarthy.jpg?w=700&ssl=1"
     },
@@ -76,7 +76,7 @@
         "name": "Thomas Eugene Kurtz",
         "age": 93,
         "country": "America",
-        "achievement": "Kurtz was honored with AFIPS Pioneer Award and IEEE Computer Science Pioneer Award",
+        "achievement": "Kurtz was honored with AFIPS Pioneer Award and IEEE Computer Science Pioneer Award.",
         "salary": 22600,
         "img": "https://i1.wp.com/www.rankred.com/wp-content/uploads/2019/07/Thomas-Eugene-Kurtz.jpg?w=700&ssl=1"
     },
@@ -85,7 +85,7 @@
         "name": "John George Kemeny",
         "age": 66,
         "country": "America",
-        "achievement": "He received the Computer Pioneer Award in 1985",
+        "achievement": "He received the Computer Pioneer Award in 1985.",
         "salary": 55000,
         "img": "https://i2.wp.com/www.rankred.com/wp-content/uploads/2019/07/John-George-Kemeny.jpg?w=700&ssl=1"
     },
@@ -94,7 +94,7 @@
         "name": "Grace Hopper",
         "age": 85,
         "country": "America",
-        "achievement": "She was the first woman in the world who got her name in Distinguished Fellow of the British Computer Society, Honorary Doctor of Science from Marquette University, and National Medal of Technology (1991)",
+        "achievement": "She was the first woman in the world who got her name in Distinguished Fellow of the British Computer Society.",
         "salary": 46900,
         "img": "https://i0.wp.com/www.rankred.com/wp-content/uploads/2019/07/Grace-Hopper.jpg?w=700&ssl=1"
     },
@@ -103,7 +103,7 @@
         "name": "John Backus",
         "age": 82,
         "country": "America",
-        "achievement": "Backus received the W.W. McDowell Award, National Medal of Science, ACM Turing Award, Draper Prize, and named an IBM Fellow",
+        "achievement": "Backus received the W.W. McDowell Award, National Medal of Science, ACM Turing Award, Draper Prize.",
         "salary": 17500,
         "img": "https://i2.wp.com/www.rankred.com/wp-content/uploads/2019/07/John-Backus.jpg?w=700&ssl=1"
     },
@@ -112,7 +112,7 @@
         "name": "Bill Gates",
         "age": 65,
         "country": "America",
-        "achievement": "He was honored with the National Medal of Technology and Innovation, Distinguished Fellow of the British Computer Society, and Bower Award for Business Leadership",
+        "achievement": "He was honored with the National Medal of Technology and Innovation, Distinguished Fellow of the British Computer Society.",
         "salary": 27500,
         "img": "https://i0.wp.com/www.rankred.com/wp-content/uploads/2019/07/Bill-Gates.jpg?w=700&ssl=1"
     },
@@ -121,7 +121,7 @@
         "name": "Brian Kernighan",
         "age": 79,
         "country": "Canada",
-        "achievement": "He won INFORMS Computing Society Prize in 1993 and received many Teacher Awards throughout his career",
+        "achievement": "He won INFORMS Computing Society Prize in 1993 and received many Teacher Awards throughout his career.",
         "salary": 15000,
         "img": "https://i2.wp.com/www.rankred.com/wp-content/uploads/2019/07/Brian-Kernighan.jpg?w=700&ssl=1"
     },
@@ -130,7 +130,7 @@
         "name": "Ken Thompson",
         "age": 78,
         "country": "America",
-        "achievement": "He was honored with the Turing Award, Japan Prize, IEEE Emanuel R. Piore Award, Computer Pioneer Award, and National Medal of Technology",
+        "achievement": "He was honored with the Turing Award, Japan Prize, IEEE Emanuel R. Piore Award, Computer Pioneer Award.",
         "salary": 27000,
         "img": "https://i1.wp.com/www.rankred.com/wp-content/uploads/2019/07/Ken-Thompson.jpg?w=600&ssl=1"
     },
@@ -139,7 +139,7 @@
         "name": "Linus Torvalds",
         "age": 51,
         "country": "Finland",
-        "achievement": "He was honored with the Millennium Technology Prize, along with Shinya Yamanaka, for creating an open-source operating system. He also received an EFF Pioneer Award, Lovelace Medal from the British Computer Society, and Vollum Award from Reed College",
+        "achievement": "He was honored with the Millennium Technology Prize, along with Shinya Yamanaka, for creating an open-source operating system.",
         "salary": 7500,
         "img": "https://i2.wp.com/www.rankred.com/wp-content/uploads/2019/07/Linus-Torvalds.jpg?w=700&ssl=1"
     }
